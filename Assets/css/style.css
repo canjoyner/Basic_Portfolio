@@ -45,7 +45,7 @@ footer {
 }
 
 
-#profile_pic{
+.profile_pic{
 	width: 300px; 
 	height: 220px;
 	float: left;
